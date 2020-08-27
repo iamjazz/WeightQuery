@@ -18,7 +18,6 @@ Attention：请将文本中'https://'、’http://‘自行去除
 pip3 install -r requeirment.txt
 
 python3 WeightQuery.py
-
 ```
 
 # 随手写了写垃圾代码，没有多线程，没有处理协议头。
